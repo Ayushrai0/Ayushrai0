@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Rai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%2FML%20%7C%20Competitive%20Programmer&descSize=16&descAlignY=55&descColor=cdd6f4" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&multiline=false&width=600&lines=LeetCode+1807+Rating+%7C+300%2B+Problems+Solved;Codeforces+1282+Rating+%7C+200%2B+Problems+Solved;550%2B+DSA+Problems+Across+All+Platforms;Full-Stack+Engineer+%7C+React+%2B+Next.js+%2B+Node.js;AI%2FML+%7C+Gemini+2.5+%7C+Groq+%7C+RAG+Pipelines;GSSoC+2025+Open+Source+Contributor;Building+Real+Products.+Solving+Hard+Problems." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&multiline=false&width=600&lines=LeetCode+1807+Rating+%7C+300%2B+Problems+Solved;Codeforces+1282+Rating+%7C+200%2B+Problems+Solved;550%2B+DSA+Problems+Across+All+Platforms; Full-Stack+Engineer+%7C+React+%2B+Next.js+%2B+Node.js;AI%2FML+%7C+Gemini+2.5+%7C+Groq+%7C+RAG+Pipelines;GSSoC+2025+Open+Source+Contributor;Building+Real+Products.+Solving+Hard+Problems." alt="Typing SVG" />
 
 <br/>
 
