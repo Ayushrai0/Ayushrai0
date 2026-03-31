@@ -190,12 +190,16 @@ const ayush: Engineer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayushrai0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushrai0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayushrai0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushrai0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ayushrai0&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Ayushrai0&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushrai0&theme=tokyonight" />
 </div>
 
 ---
