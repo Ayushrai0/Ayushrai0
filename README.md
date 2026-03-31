@@ -15,7 +15,7 @@
 <a href="https://codeforces.com/profile/">
   <img src="https://img.shields.io/badge/Codeforces-1282%20%7C%20200%2B%20Problems-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
-<a href="https://github.com/ayush">
+<a href="https://github.com/Ayushrai0">
   <img src="https://img.shields.io/badge/GSSoC'25-Open%20Source%20Contributor-6DB33F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -69,7 +69,7 @@ const ayush: Engineer = {
 
 ## 🚀 Featured Projects
 
-### 🗂️ [DIT PYQ Hub](https://github.com/) — Full-Stack Academic Resource Platform (PWA)
+### 🗂️ [DIT PYQ Hub](https://dit-pyq-hub.vercel.app/) — Full-Stack Academic Resource Platform (PWA)
 > Production-grade PWA for browsing, uploading, and downloading university question papers.
 
 - 🔐 **Supabase RLS** — database-layer Row-Level Security with user-scoped Bearer token injection
@@ -89,7 +89,7 @@ const ayush: Engineer = {
 
 ---
 
-### 🤖 [PrepEdge.AI](https://github.com/) — AI-Powered Mock Interview Platform
+### 🤖 [PrepEdge.AI](https://prepedge-ai-drab.vercel.app/) — AI-Powered Mock Interview Platform
 > Full-stack AI interview simulator with voice interaction and ATS resume builder.
 
 - 🎙️ **Real-time voice interaction** — adaptive questioning via OpenRouter API, adjusts difficulty dynamically
@@ -190,12 +190,12 @@ const ayush: Engineer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayushrai0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushrai0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ayush&theme=tokyonight&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ayushrai0&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -221,6 +221,6 @@ const ayush: Engineer = {
 
 *"Building real products. Solving hard problems."*
 
-[![](https://visitcount.itsvg.in/api?id=ayush&icon=6&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ayushrai0&icon=6&color=9)](https://visitcount.itsvg.in)
 
 </div>
