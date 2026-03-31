@@ -9,10 +9,10 @@
 <br/>
 
 <!-- Badges Row -->
-<a href="https://leetcode.com/u/adityagm/">
+<a href="https://leetcode.com/u/AYUSHRAI07/">
   <img src="https://img.shields.io/badge/LeetCode-1807%20%7C%20300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<a href="https://codeforces.com/profile/">
+<a href="https://codeforces.com/profile/HACKER2714">
   <img src="https://img.shields.io/badge/Codeforces-1282%20%7C%20200%2B%20Problems-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 <a href="https://github.com/Ayushrai0">
@@ -27,7 +27,7 @@
 <a href="mailto:ayushraivib7@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-ayushraivib7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://devsaathi-tawny.vercel.app/">
+<a href="ayush-rai-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Live%20Site-CBA6F7?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
