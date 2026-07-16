@@ -11,7 +11,6 @@
 
 <br/>
 
-### 🔥 Not just another portfolio README — this is a track record.
 
 <br/>
 
