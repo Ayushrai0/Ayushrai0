@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Animated Name Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=AYUSH%20RAI&fontSize=56&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Engineer%20%20%C2%B7%20%20AI%2FML%20Builder%20%20%C2%B7%20%20Competitive%20Programmer&descSize=18&descAlignY=55&descColor=e0d9ff" />
-<img src="https://github.com/Ayushrai0.png" width="130" style="border-radius:50%;" />
+
 <h3>👨‍💻 Building products that ship. Solving problems that matter.</h3>
 <!-- Visitor Counter -->
 
