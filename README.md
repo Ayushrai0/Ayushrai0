@@ -74,7 +74,7 @@
 ```typescript
 const ayush: Engineer = {
   location:       "Dehradun, India 🇮🇳",
-  education:      "B.Tech CSE @ DIT University — CGPA 8.80",
+  education:      "B.Tech CSE @ DIT University — CGPA 8.70",
   currentFocus:   ["System Design", "AI/ML Pipelines", "Open Source"],
   expertise:      ["Full-Stack Engineering", "Real-Time Systems", "LLM Integration", "PWA"],
   competitive:    "LeetCode 1900+ · Codeforces 1282 · 750+ problems",
@@ -224,45 +224,8 @@ const ayush: Engineer = {
   <img src="https://raw.githubusercontent.com/Ayushrai0/Ayushrai0/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
-> ℹ️ **Snake setup note:** ye image tabhi dikhega jab tumhare `Ayushrai0/Ayushrai0` repo me neeche wali GitHub Actions workflow file add ho aur ek baar run ho chuki ho (ye apne aap generate nahi hota, ek manual one-time setup hai). Steps neeche diye hain 👇
 
-<details>
-<summary>⚙️ Snake animation workflow setup (one-time)</summary>
 
-`.github/workflows/snake.yml` file banao apne `Ayushrai0/Ayushrai0` repo me:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches: [main]
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Ayushrai0
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Push karo, phir Actions tab me jaake workflow ko ek baar manually run karo (`workflow_dispatch`) — uske baad snake har din auto-update hoga.
-
-</details>
-
----
 
 ## 🎓 Experience & Recognition
 
@@ -273,7 +236,7 @@ Push karo, phir Actions tab me jaake workflow ko ek baar manually run karo (`wor
 🥇  LeetCode                    1900+ Rating · 450+ Problems Solved
 🥇  Codeforces                  1282 Rating · 200+ Problems Solved
 📦  750+ Problems               Solved across LeetCode, Codeforces & more
-🎓  DIT University              CGPA 8.80 / 10.0 — CSE
+🎓  DIT University              CGPA 8.70 / 10.0 — CSE
 🚀  3 Production Projects       Full-Stack · AI/ML · Real-Time Systems
 ```
 
