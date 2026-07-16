@@ -1,18 +1,21 @@
 <div align="center">
-
 <!-- Animated Name Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=AYUSH%20RAI&fontSize=56&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Engineer%20%20%C2%B7%20%20AI%2FML%20Builder%20%20%C2%B7%20%20Competitive%20Programmer&descSize=18&descAlignY=55&descColor=e0d9ff" />
-
+<img src="https://github.com/Ayushrai0.png" width="130" style="border-radius:50%;" />
+<h3>👨‍💻 Building products that ship. Solving problems that matter.</h3>
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=Ayushrai0&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views"/>
+<br/><br/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2600&pause=700&color=CBA6F7&center=true&vCenter=true&multiline=false&width=700&separator=%7C&lines=%3E+whoami+%7C+Ayush+Rai;%3E+LeetCode+1900%2B+%C2%B7+450%2B+problems+crushed;%3E+750%2B+DSA+problems+across+every+platform;%3E+ships+full-stack+apps+that+don%27t+break;%3E+trains+multi-LLM+pipelines+for+fun;%3E+Amazon+ML+Summer+School+2026;%3E+HackWithInfy+2026+Qualified;%3E+status%3A+building.+always." alt="Typing SVG" />
-
+<!-- Terminal-style Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=600&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&separator=%7C&lines=%24+whoami;%3E+Ayush+Rai+%E2%80%94+Full-Stack+%2B+AI%2FML+Engineer;%24+cat+stats.txt;%3E+LeetCode+1900%2B+%C2%B7+450%2B+problems+%C2%B7+750%2B+total;%24+cat+achievements.txt;%3E+Amazon+ML+Summer+School+2026+%C2%B7+HackWithInfy+2026+Qualified" alt="Terminal Typing SVG" />
 <br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,docker&perline=6" />
+<br/><br/>
 
-
-<br/>
+<img src="https://img.shields.io/badge/status-shipping_code-39FF14?style=for-the-badge&logo=statuspage&logoColor=black"/>
+<img src="https://img.shields.io/badge/open_to-SWE_Internships-8E2DE2?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<br/><br/>
 
 <!-- Badges Row -->
 <a href="https://leetcode.com/u/AYUSHRAI07/">
@@ -30,7 +33,6 @@
 <a href="#">
   <img src="https://img.shields.io/badge/HackWithInfy-2026%20Qualified-007CC3?style=for-the-badge&logo=infosys&logoColor=white"/>
 </a>
-
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/ayush-rai-174a70291/">
@@ -42,9 +44,7 @@
 <a href="https://ayushrai07.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Live%20Site-CBA6F7?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
-
 </div>
-
 ---
 
 ## ⚡ Quick Stats
