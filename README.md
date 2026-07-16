@@ -4,7 +4,7 @@
 <img src="https://github.com/Ayushrai0.png" width="130" style="border-radius:50%;" />
 <h3>👨‍💻 Building products that ship. Solving problems that matter.</h3>
 <!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=Ayushrai0&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views"/>
+
 <br/><br/>
 
 <!-- Terminal-style Typing SVG -->
