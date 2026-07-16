@@ -3,6 +3,9 @@
 <!-- Animated Name Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Rai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%2FML%20%7C%20Competitive%20Programmer&descSize=16&descAlignY=55&descColor=cdd6f4" />
 
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=Ayushrai0&label=Profile%20Views&color=cba6f7&style=for-the-badge" alt="profile views"/>
+
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&multiline=false&width=600&lines=LeetCode+1807+Rating+%7C+300%2B+Problems+Solved;Codeforces+1282+Rating+%7C+200%2B+Problems+Solved;550%2B+DSA+Problems+Across+All+Platforms;Full-Stack+Engineer+%7C+React+%2B+Next.js+%2B+Node.js;AI%2FML+%7C+Gemini+2.5+%7C+Groq+%7C+RAG+Pipelines;GSSoC+2025+Open+Source+Contributor;Building+Real+Products.+Solving+Hard+Problems." alt="Typing SVG" />
 
@@ -31,6 +34,13 @@
   <img src="https://img.shields.io/badge/Portfolio-Live%20Site-CBA6F7?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
+</div>
+
+---
+
+<!-- Random Dev Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
 </div>
 
 ---
@@ -69,8 +79,12 @@ const ayush: Engineer = {
 
 ## 🚀 Featured Projects
 
-### 🗂️ [DIT PYQ Hub](https://dit-pyq-hub.vercel.app/) — Full-Stack Academic Resource Platform (PWA)
+<details open>
+<summary><b>🗂️ DIT PYQ Hub</b> — Full-Stack Academic Resource Platform (PWA)</summary>
+<br/>
+
 > Production-grade PWA for browsing, uploading, and downloading university question papers.
+> 🔗 **[Live Demo](https://dit-pyq-hub.vercel.app/)**
 
 - 🔐 **Supabase RLS** — database-layer Row-Level Security with user-scoped Bearer token injection
 - ⚡ **O(1) download counters** — PL/pgSQL triggers replacing expensive `COUNT(*)` aggregations
@@ -87,10 +101,14 @@ const ayush: Engineer = {
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
----
+</details>
 
-### 🤖 [PrepEdge.AI](https://prepedge-ai-drab.vercel.app/) — AI-Powered Mock Interview Platform
+<details>
+<summary><b>🤖 PrepEdge.AI</b> — AI-Powered Mock Interview Platform</summary>
+<br/>
+
 > Full-stack AI interview simulator with voice interaction and ATS resume builder.
+> 🔗 **[Live Demo](https://prepedge-ai-drab.vercel.app/)**
 
 - 🎙️ **Real-time voice interaction** — adaptive questioning via OpenRouter API, adjusts difficulty dynamically
 - 📄 **ATS resume generator** — AI-powered content generation, live preview, and one-click PDF export
@@ -105,10 +123,14 @@ const ayush: Engineer = {
 ![OpenRouter](https://img.shields.io/badge/OpenRouter_API-FF6B35?style=flat-square)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
 
----
+</details>
 
-### ⚔️ [DevSaathi](https://devsaathi-tawny.vercel.app/) — AI-Powered Developer Profile Analyzer
+<details>
+<summary><b>⚔️ DevSaathi</b> — AI-Powered Developer Profile Analyzer</summary>
+<br/>
+
 > Analyzes GitHub + LeetCode profiles to compute FAANG-readiness scores with AI roasts.
+> 🔗 **[Live Demo](https://devsaathi-tawny.vercel.app/)**
 
 - 🧠 **Multi-factor scoring** — evaluates commit consistency, repo quality, language diversity, contest ratings across 6+ weighted dimensions
 - 🔗 **GitHub REST API + LeetCode GraphQL + Cheerio** — extracts real-time developer metrics
@@ -124,36 +146,19 @@ const ayush: Engineer = {
 ![Redis](https://img.shields.io/badge/Upstash_Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22b5bf?style=flat-square)
 
+</details>
+
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,ts,js,html,css,react,nextjs,tailwind,vite,nodejs,express,postgres,mongodb,firebase,redis,docker,vercel,githubactions,git&perline=10" />
 
-### Frontend
-![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+</div>
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<div align="center">
 
 ### AI / ML
 ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white)
@@ -161,13 +166,6 @@ const ayush: Engineer = {
 ![OpenRouter](https://img.shields.io/badge/OpenRouter_API-000000?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22b5bf?style=for-the-badge)
-
-### DevOps & Cloud
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -202,6 +200,23 @@ const ayush: Engineer = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushrai0&theme=tokyonight" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayushrai0&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushrai0&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ayushrai0/Ayushrai0/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+> ℹ️ **Snake setup:** yeh apne aap generate nahi hoga — is README wale repo (`username/username`) me ek GitHub Actions workflow add karna padega (neeche diya hai) jo daily tumhare contribution graph se snake SVG banayega.
+
 ---
 
 ## 🎓 Experience & Recognition
@@ -219,12 +234,8 @@ const ayush: Engineer = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+### 💭 "Building real products, one commit at a time."
 
-**Open to SDE Internship opportunities 🚀**
-
-*"Building real products. Solving hard problems."*
-
-[![](https://visitcount.itsvg.in/api?id=Ayushrai0&icon=6&color=9)](https://visitcount.itsvg.in)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
