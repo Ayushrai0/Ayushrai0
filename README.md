@@ -1,13 +1,17 @@
 <div align="center">
 
 <!-- Animated Name Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Rai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%2FML%20%7C%20Competitive%20Programmer&descSize=16&descAlignY=55&descColor=cdd6f4" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=AYUSH%20RAI&fontSize=56&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Engineer%20%20%C2%B7%20%20AI%2FML%20Builder%20%20%C2%B7%20%20Competitive%20Programmer&descSize=18&descAlignY=55&descColor=e0d9ff" />
 
 <!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=Ayushrai0&label=Profile%20Views&color=cba6f7&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Ayushrai0&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&multiline=false&width=650&lines=LeetCode+1900%2B+Rating+%7C+450%2B+Problems+Solved;Codeforces+1282+Rating+%7C+200%2B+Problems+Solved;750%2B+DSA+Problems+Across+All+Platforms;Full-Stack+Engineer+%7C+React+%2B+Next.js+%2B+Node.js;AI%2FML+%7C+Gemini+2.5+%7C+Groq+%7C+RAG+Pipelines;Amazon+ML+Summer+School+2026;HackWithInfy+2026+Qualified;Building+Real+Products.+Solving+Hard+Problems." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2600&pause=700&color=CBA6F7&center=true&vCenter=true&multiline=false&width=700&separator=%7C&lines=%3E+whoami+%7C+Ayush+Rai;%3E+LeetCode+1900%2B+%C2%B7+450%2B+problems+crushed;%3E+750%2B+DSA+problems+across+every+platform;%3E+ships+full-stack+apps+that+don%27t+break;%3E+trains+multi-LLM+pipelines+for+fun;%3E+Amazon+ML+Summer+School+2026;%3E+HackWithInfy+2026+Qualified;%3E+status%3A+building.+always." alt="Typing SVG" />
+
+<br/>
+
+### 🔥 Not just another portfolio README — this is a track record.
 
 <br/>
 
@@ -44,13 +48,6 @@
 
 ---
 
-<!-- Random Dev Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
-</div>
-
----
-
 ## ⚡ Quick Stats
 
 <div align="center">
@@ -63,7 +60,7 @@
 | Amazon ML Summer School | Selected for **Amazon ML Summer School 2026** |
 | HackWithInfy 2026 | **Qualified** — Infosys' national coding challenge |
 | GSSoC 2025 | Selected as **Open Source Contributor** — real-world projects globally |
-| CGPA | **8.80 / 10.0** — DIT University, Dehradun |
+| CGPA | **8.70 / 10.0** — DIT University, Dehradun |
 
 </div>
 
@@ -224,8 +221,7 @@ const ayush: Engineer = {
   <img src="https://raw.githubusercontent.com/Ayushrai0/Ayushrai0/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
-
-
+---
 
 ## 🎓 Experience & Recognition
 
